@@ -1,3 +1,4 @@
+
 /** @type {import('tailwindcss').Config} */
 const colors = {
     "base": "#101010",

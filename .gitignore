@@ -16,7 +16,6 @@ npm-debug.log
 yarn-error.log
 /.fleet
 /.idea
-/.vscode
 /.npm
 /.bash_history
 /_data
@@ -37,3 +36,6 @@ scripts/load-test/*
 docker/coolify-realtime/node_modules
 .DS_Store
 Changelog.md
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
